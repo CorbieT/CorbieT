@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CorbieT
+- 👀 I’m interested in Android Development
+- 🌱 I’m currently learning Kotlin/Java
+- 📫 How to reach me: https://vk.com/id462107469 pwneddesh@gmail.com
